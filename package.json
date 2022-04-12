@@ -1,0 +1,15 @@
+{
+  "name": "week3_day2_JEST",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script_1.js",
+  "scripts": {
+	"test": "jest -i"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
